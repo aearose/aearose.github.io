@@ -17,6 +17,11 @@ background-size:cover;
 	text-shadow: 3px 3px #9dabc1;
 	}
 
+.welcometext:hover {
+	transform: scale(1.01);
+	transition: 1s;
+	}
+
 .container-fluid {
 height: 100%;
 display: table;
@@ -39,6 +44,7 @@ padding: 0;
 .btn-primary:hover {
 	background-color: #3329eb;
 	transform: scale(1.1);
+	transition: 1s;
 	
 	}
 
