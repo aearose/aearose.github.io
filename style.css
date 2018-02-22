@@ -12,8 +12,10 @@ background-size:cover;
 }
 
 .welcometext {
-	color: white;
-	text-shadow: 10px;
+	color: #091e36;
+	font-size: 4rem;
+	text-shadow: 3px 3px #9dabc1;
+	text-shadow:
 }
 
 .container-fluid {
@@ -38,7 +40,7 @@ padding: 0;
 .btn-primary:hover {
 	background-color: #3329eb;
 	transform: scale(1.1);
-	border-color: orange;
+	
 	}
 
 
