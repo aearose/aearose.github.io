@@ -1,0 +1,45 @@
+
+html, body, navbar{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Catamaran', sans-serif;
+}
+
+body {
+background-image: url(backimg.jpg);
+background-size:cover;
+}
+
+.welcometext {
+	color: white;
+	text-shadow: 10px;
+}
+
+.container-fluid {
+height: 100%;
+display: table;
+width: 100%;
+padding: 0;
+}
+
+.container-row {
+	height: 100%;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+
+.btn-primary {
+	background-color: #05729b;
+	font-family: 'Fredoka One', cursive;
+	}
+
+.btn-primary:hover {
+	background-color: #3329eb;
+	transform: scale(1.1);
+	border-color: orange;
+	}
+
+
+
